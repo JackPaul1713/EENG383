@@ -2,7 +2,7 @@
 // Name: Jack Martin, Jack Marley   
 // Date: 1/26/2020
 // Lab: 03
-// Purp: torcher by MPLab (also play a song when upper button is pressed)
+// Purp: play a song when upper button is pressed
 //
 // Assisted: Dr. Chris Coulston (starter code)
 // Assisted by: Technical documents

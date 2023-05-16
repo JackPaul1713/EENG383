@@ -1,7 +1,7 @@
 //--------------------------------------------------------------------
 // Name:            Jack Martin, Jack Marley
 // Date:            Spring 2023
-// Purp:            inLab13
+// Purp:            measure distance from echo pulse duration and ajust led color to reflect distance
 //
 // Assisted:        
 // Assisted by:     Microchips 18F26K22 Tech Docs 

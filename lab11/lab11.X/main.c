@@ -1,7 +1,7 @@
 //--------------------------------------------------------------------
 // Name:            Jack Martin, Jack Marley
-// Date:            Fall 2020
-// Purp:            inLab11
+// Date:            4/10/2023
+// Purp:            direct digital synthisis
 //
 // Assisted:        The entire class of EENG 383
 // Assisted by:     Microchips 18F26K22 Tech Docs 

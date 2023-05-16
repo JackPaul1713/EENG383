@@ -1,10 +1,10 @@
 //--------------------------------------------------------------------
-// Name:            Chris Coulston
-// Date:            Fall 2020
-// Purp:            inLab05
+// Name: Jack Martin, Jack Marley   
+// Date: 2/16/2023
+// Purp: cycle through led colors by ajusting rgb pwms
 //
-// Assisted:        The entire class of EENG 383
-// Assisted by:     Microchips 18F26K22 Tech Docs 
+// Assisted:
+// Assisted by: Microchips 18F26K22 Tech Docs 
 //-
 //- Academic Integrity Statement: I certify that, while others may have
 //- assisted me in brain storming, debugging and validating this program,

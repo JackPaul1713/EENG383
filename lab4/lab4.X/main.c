@@ -2,9 +2,9 @@
 // Name:    Jack Marley, Jack Martin
 // Date:    Spring 2023
 // Lab:     04
-// Purp:    Use Interrupts
+// Purp:    use interrupts
 //
-// Assisted: The entire EENG 383 class
+// Assisted: No one
 // Assisted by: Technical documents
 //
 // Academic Integrity Statement: I certify that, while others may have

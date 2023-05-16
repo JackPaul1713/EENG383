@@ -1,7 +1,7 @@
 //--------------------------------------------------------------------
-// Name:            Chris Coulston
-// Date:            Fall 2020
-// Purp:            inLab09
+// Name:            Jack Martin, Jack Marley
+// Date:            3/24/2023
+// Purp:            record and playback microphone samples
 //
 // Assisted:        The entire class of EENG 383
 // Assisted by:     Microchips 18F26K22 Tech Docs 
