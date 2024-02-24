@@ -31,4 +31,4 @@ The project involved fading an RGB LED through various colors.
 **Lab15** - final project
 
 ## About
-Embedded Systems is a course at the Colorado School of Mines in the Electrical Engineering department. This is from the Spring 2023 section.
+Embedded Systems is a course at the Colorado School of Mines in the Electrical Engineering department. These projects were completed by a team, Jack Marley and Jack Martin. This is from the Spring 2023 section.
